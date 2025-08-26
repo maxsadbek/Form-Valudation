@@ -1,0 +1,7 @@
+@use "./variable";
+@use "./normal.scss";
+
+  body {
+    background: url("./../img/bacgroung\ imgs.png") no-repeat center 25%;
+    background-size: cover; /* ekranga to‘liq moslashtiradi */
+  }
