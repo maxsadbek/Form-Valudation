@@ -23,8 +23,13 @@ body {
         display: flex;
         flex-direction: column;
         label{
+            margin-top: 1rem;
             font-size: 18px;
             margin-bottom: 0.5rem;
+        }
+        input{
+            padding: 10px;
+            border: none;
         }
     }
 }
