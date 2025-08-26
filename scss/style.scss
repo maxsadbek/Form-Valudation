@@ -30,6 +30,11 @@ body {
         input{
             padding: 10px;
             border: none;
+            backdrop-filter: blur(5px);
+            background-color: #ffffff29;
+            color: aliceblue;
+            font-size: 20px;
+            border-radius: 20px;
         }
     }
 }
