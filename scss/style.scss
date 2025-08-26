@@ -14,7 +14,7 @@ body {
     margin-top: 12rem;
     background-color: #ffffff29;
     backdrop-filter: blur(10px);
-    width: 550px;
+    width: 450px;
     height: 67vh;
     padding: 2rem;
     font-family: "Nunito", sans-serif;
@@ -35,6 +35,9 @@ body {
             color: aliceblue;
             font-size: 20px;
             border-radius: 20px;
+            ::placeholder{
+                color: #fff;
+            }
         }
     }
 }
